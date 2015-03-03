@@ -1,4 +1,4 @@
-This is a test
+This is truely a test
  SCMGitLab
 =========
 This is the files you need to work with when going through the excercises.
