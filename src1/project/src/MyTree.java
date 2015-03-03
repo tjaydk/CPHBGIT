@@ -8,7 +8,7 @@ import tree.MyNode;
  * @author Torbjörn Ekman
  * @see MyNode
  */
-public class MyTree {
+
   private MyNode root;
 
   /**
