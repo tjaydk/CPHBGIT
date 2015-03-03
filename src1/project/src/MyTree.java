@@ -8,7 +8,11 @@ import tree.MyNode;
  * @author Torbjörn Ekman
  * @see MyNode
  */
+<<<<<<< HEAD
 
+=======
+ {
+>>>>>>> 3dc45c302ac0f99f73cbfc1f8a6cb7a8f8a8376d
   private MyNode root;
 
   /**
